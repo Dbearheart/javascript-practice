@@ -5,4 +5,4 @@ alert("it works for now!")
 /* this is a 
 multi-line comment*/
 console.log("My Name is David Garza");
-console.log("Favorite Food is all Japanese Food");
+console.log("Favorite Food is all Japanese Food is amazing");
